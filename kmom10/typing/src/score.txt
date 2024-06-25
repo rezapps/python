@@ -1,0 +1,15 @@
+reza 	 443.22 	 hard
+john 	 413.64 	 easy
+leo 	 783.53 	 hard
+peter 	 530.56 	 medium
+reza 	 393.88 	 easy
+reza 	 513.41 	 hard
+reza 	 482.91 	 medium
+reza 	 385.76 	 hard
+reza 	 382.31 	 easy
+john 	 401.92 	 easy
+reza 	 328.69 	 easy
+reza 	 257.65 	 easy
+reza 	 168.58 	 easy
+reza 	 -19.28 	 easy
+reza 	 -52.66 	 easy
